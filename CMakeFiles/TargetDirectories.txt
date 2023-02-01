@@ -1,0 +1,5 @@
+/home/a/Desktop/TestProj/CMakeFiles/main.dir
+/home/a/Desktop/TestProj/CMakeFiles/circle.dir
+/home/a/Desktop/TestProj/CMakeFiles/circle-a.dir
+/home/a/Desktop/TestProj/CMakeFiles/edit_cache.dir
+/home/a/Desktop/TestProj/CMakeFiles/rebuild_cache.dir
